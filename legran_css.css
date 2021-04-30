@@ -1,0 +1,78 @@
+#divwin {
+    position: absolute;
+    width: 1250px;
+    height: 800px;
+    /*border: 0px solid gray;*/
+    border: 0px;
+    background: #000000;
+    display: none;
+    padding: 25px 0px 5px 0px;
+    /*text-align: center;*/
+}
+
+#button {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    color: #d3d3d3;
+    padding: 5px 5px 5px 5px;
+}
+
+#closeButton {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    /*border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    font-weight: bold;*/
+    cursor: pointer;
+    padding: 5px 5px 5px 5px;
+}
+
+iframe {
+    /*background-color: #5D5858;*/
+    color: #d3d3d3;
+    border: none;/* убираем рамку*/
+    font-family:Courier New,Verdana,monospace;
+    scrollbar-face-color: #191919;
+    scrollbar-shadow-color: #505050;
+    scrollbar-highlight-color: #505050;
+    scrollbar-3dlight-color: black;
+    scrollbar-darkshadow-color: black;
+    scrollbar-track-color: #191919;
+    scrollbar-arrow-color: #505050;
+}
+
+.content table {/* margin: 0 0 1em; */ font-family:Arial, Helvetica, sans-serif; /*text-height:14;*/ border:0px; }
+
+.content table {
+    /*border-top: 1px solid #342F12;*/
+    /*border-left: 1px solid #342F12;*/
+    /* margin-left: 1.5em; */
+    /*font-size: 110%;*/
+}
+
+.content td {
+    /*border-right: 1px solid #342F12;*/
+    /*   border-bottom: 1px solid #CE8282;   */
+    padding:12px 12px 10px 12px;
+    /* padding:7px 7px 4px 7px;
+    padding: 0.35em 0.5em; */
+    vertical-align: top;
+}
+
+.b_r { border-right: 1px solid #FFF; }
+
+h1, h2, h3, h4, h5, h6 {margin:0;padding:0;}
+
+.bg_table {background: #635C30;}
+
+.sale_table { border-spacing:0; }
+.sale_tr { background-image: url('/images/sale_fon.png'); background-repeat: repeat-x; background-position: 0px bottom; }
+
+.ga_table { border-spacing:0; }
+.ga_tr { background-image: url('/images/fon_gallery.png'); background-repeat: no-repeat; background-position: 0px 0px; }
+#ga { background-image: url('/images/fon_gallery.png'); background-repeat: no-repeat; background-position: 0px 0px; background-color:#8B3126; }
+
+#new { background-image: url('/images/new.png'); background-repeat: no-repeat; background-position: 0px top; }
+#new_line { background-image: url('/images/new_line.png'); background-repeat: no-repeat; background-position: right top; }

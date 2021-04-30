@@ -1,0 +1,8 @@
+<div class="bath">
+            <a href="/bath.html">
+                <img alt="ванная" src="/images/bath.png" usemap="#bathmap">
+                <map name="bathmap">
+                    <area shape="" coords="" href="" alt="">
+                </map>
+            </a>
+        </div>

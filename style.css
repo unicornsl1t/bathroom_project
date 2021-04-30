@@ -1,0 +1,309 @@
+/*@font-face {
+	font-family: 'Open Sans Condensed';
+	src: url(/fonts/OpenSansCondensed-Light.ttf);
+
+}*/
+
+/* @font-face {
+	font-family: 'Montserrat', sans-serif;
+	src: url(/fonts/Montserrat-Regular.ttf);
+}*/
+
+/* @font-face {
+	font-family: 'Comfortaa', cursive;
+	src: url(/fonts/Comfortaa-VariableFont_wght.ttf)
+}
+ */
+
+
+html,
+body {
+	background-color: #FFFACD;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	color: #62625f;
+	margin: 0;
+	height: 100%;
+
+
+}
+
+
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+
+}
+
+.drop {
+	padding-right: 30px;
+}
+
+/* [href="/bath.html"] {
+	width: 200px;
+	font-size: 300px;
+ } можно также применять стили, используя атрибут и его значение */
+
+
+header {
+	background-color: #62625f;
+	display: flex;
+	justify-content: space-between;
+	flex: 0 0 auto;
+
+
+	/* position: fixed; */
+}
+
+/* ul.shower-bath > li {*/
+/*	color: #90EE90;*/
+/*} если уровень вложенности большой, то с помощью такого
+ правила можно обратиться только к самым
+  "старшим"(верхним) элементам */
+
+
+header nav {
+	display: flex;
+	flex-direction: row-reverse;
+	width: 400px;
+	margin-left: 30px;
+	justify-content: space-between;
+
+}
+
+
+header nav a {
+	color: #ffffff;
+	padding-top: 12px;
+
+}
+
+
+header nav a:hover {
+	color: #a0a487;
+}
+
+
+footer {
+	display: flex;
+	color: white;
+	flex-direction: row-reverse;
+	background-color: #62625f;
+	flex: 0 0 auto;
+
+}
+
+
+footer div {
+	margin-right: 20px;
+}
+
+
+.main-content {
+	flex: 1 0 auto;
+}
+
+
+div.first-page {
+	text-align: center;
+
+}
+
+
+div.second-page {
+	text-align: center;
+
+}
+
+
+table.vaporarium {
+	font-size: 24px;
+	color: #62625f;
+	background-color: #acd2c3;
+	border: 3px solid #435f5d;
+	border-radius: 10px;
+	margin: 75px auto 0 auto;
+	width: 87%;
+	height: 300px;
+}
+
+
+table.vaporarium td,
+table.vaporarium th {
+	text-align: center;
+	border-radius: 10px;
+	border: 1px solid #62625f;
+}
+
+
+tr.table_top img {
+	text-align: center;
+	height: 31px;
+	width: 31px;
+}
+
+
+div.duck {
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+ul.shower-bath li {
+ 	list-style: none;
+	text-align: center;
+}
+
+
+div.drain {
+	margin-top: 34%;
+}
+
+
+div.drain2 {
+	margin-top: 3%;
+	text-align: center;
+}
+
+
+div.bath {
+	margin-top: 40px;
+	float: left;
+	margin-left: 190px;
+	width: 390px;
+}
+
+
+
+div.shower {
+	margin-top: 40px;
+	float: right;
+	margin-right: 190px;
+	height: 370px;
+}
+
+
+div.bath img,
+div.shower img {
+	max-width: 100%;
+ 	max-height: 100%;
+}
+
+div.video {
+	width: 1290px;
+	height: 720px;
+	padding: 5px 5px 5px 5px;
+	margin: 100px auto 0 auto;
+	text-align: center;
+	border: 3px solid #1f2021;
+}
+
+div.video iframe {
+	width: 100%;
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #62625f;
+}
+
+
+a.mybutton {
+	color: #393a3a;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 23px;
+	font-style: italic;
+	background-color: #dad5a7;
+	border: 1px solid #2c2d2d;
+	border-radius: 50px;
+	padding: 8px 100px;
+}
+
+
+div.mybutton-wrapper {
+	text-align: center;
+
+	/* коммент для тупой меня: конкретно этот mybutton-wrapper предназначен для того, чтоб выставить текст внутри блока по центру. Тег <a> является строчным, поэтому он воспринимается как текст, если грубо говорить */
+}
+
+
+div.go-clean {
+	margin-top: 45px;
+}
+
+
+div.pageup {
+	margin-bottom: 28px;
+}
+
+
+#up {
+	font-weight: bold;
+/*	у айдентификейтора может быть только уникальное имя, оно не должно повторяться. В html коде можно указывать его точечно, не используя якорь, и также на его основе писать правило для конкретного элемента. В html коде это будет выглядеть как id="айдинэйм" */
+}
+
+
+a.yes {
+	color: #111111;
+	font-size: 20px;
+	font-family: 'Comfortaa', cursive;
+	font-style: italic;
+	background-color: #90EE90;
+	border-radius: 10px;
+	padding: 11px 16px;
+	z-index: 1;
+	position: relative;
+	left: 12px;
+}
+
+span.italic {
+	font-style: italic;
+}
+
+/* свойство z-index применяется, если я хочу поменять порядок наложенности элементов друг
+ на друга. По умолчанию возьмем за значение, что у всех элементов
+ стоит свойство "z-index 0" а, чтоб переналожить элемент, я указываю тому, который
+ хочу переналожить, число больше ноля. Свойство называется именно Z, так как мы упорядочиваем
+  элементы по оси Z, если представить в 3D формате, то элементы как будто плывут на нас пол диагональной оси Z*/
+
+
+a.no {
+	color: #111111;
+	font-size: 20px;
+	font-family: 'Comfortaa', cursive;
+	background-color: #FA8072;
+	border-radius: 10px;
+	position: relative;
+	left: -8px;
+	top: 33px;
+	z-index: 0;
+	padding: 11px 16px;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+a.yes:hover {
+	background-color: #BCEEBC;
+}
+
+
+a.no:hover {
+	background-color: #F1B0A7;
+}
+
+
+a.mybutton:hover {
+	background-color: #bab488;
+}
+
+
+
+
+

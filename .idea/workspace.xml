@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="426939e1-5d64-4f1b-9231-e946e0e32ed1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1jnfFa40uYd2RoozGSIJrKHBFoS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/legran/uplink" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="426939e1-5d64-4f1b-9231-e946e0e32ed1" name="Default Changelist" comment="" />
+      <created>1604444673194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604444673194</updated>
+      <workItem from="1604444674248" duration="805000" />
+      <workItem from="1604596438702" duration="8823000" />
+      <workItem from="1604606192668" duration="1917000" />
+      <workItem from="1604685229192" duration="7506000" />
+      <workItem from="1604758049354" duration="2213000" />
+      <workItem from="1604766507444" duration="1333000" />
+      <workItem from="1604943317628" duration="6062000" />
+      <workItem from="1604952182598" duration="1357000" />
+      <workItem from="1605028764121" duration="5553000" />
+      <workItem from="1605108733525" duration="12869000" />
+      <workItem from="1605523892117" duration="5000" />
+      <workItem from="1605550101765" duration="4743000" />
+      <workItem from="1605633856964" duration="8203000" />
+      <workItem from="1605977609844" duration="4483000" />
+      <workItem from="1606066305903" duration="5828000" />
+      <workItem from="1606327531050" duration="2447000" />
+      <workItem from="1606331583028" duration="716000" />
+      <workItem from="1606394033782" duration="8000" />
+      <workItem from="1606415345329" duration="3350000" />
+      <workItem from="1606470068781" duration="12000" />
+      <workItem from="1606582621459" duration="8683000" />
+      <workItem from="1606669854564" duration="3084000" />
+      <workItem from="1606734345043" duration="18000" />
+      <workItem from="1606734453221" duration="209000" />
+      <workItem from="1606734674534" duration="16000" />
+      <workItem from="1606734719241" duration="131000" />
+      <workItem from="1606937733808" duration="442000" />
+      <workItem from="1606938187884" duration="241000" />
+      <workItem from="1606994018432" duration="157000" />
+      <workItem from="1606994766652" duration="131000" />
+      <workItem from="1606994917731" duration="97000" />
+      <workItem from="1606995069167" duration="55000" />
+      <workItem from="1606995178162" duration="14000" />
+      <workItem from="1606995450890" duration="8000" />
+      <workItem from="1606996043323" duration="110000" />
+      <workItem from="1606996311511" duration="7000" />
+      <workItem from="1606996329953" duration="531000" />
+      <workItem from="1606996972033" duration="19000" />
+      <workItem from="1606997017074" duration="8000" />
+      <workItem from="1606997062535" duration="5000" />
+      <workItem from="1606997288882" duration="13000" />
+      <workItem from="1606997961084" duration="20000" />
+      <workItem from="1607015937417" duration="602000" />
+      <workItem from="1607188254633" duration="1664000" />
+      <workItem from="1607694421098" duration="7000" />
+      <workItem from="1616858858587" duration="271000" />
+      <workItem from="1617355763725" duration="107000" />
+      <workItem from="1618168863462" duration="676000" />
+      <workItem from="1619631504510" duration="1750000" />
+      <workItem from="1619637164112" duration="2219000" />
+      <workItem from="1619642907310" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1161" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619631594642">
+      <screen x="-1844" y="2" width="1844" height="1080" />
+    </state>
+    <state x="-1161" y="343" key="#com.intellij.fileTypes.FileTypeChooser/-1844.2.1844.1080/76.0.1844.1080@-1844.2.1844.1080" timestamp="1619631594642" />
+    <state x="-1149" y="283" key="FileChooserDialogImpl" timestamp="1619643195448">
+      <screen x="-1844" y="2" width="1844" height="1080" />
+    </state>
+    <state x="-1149" y="283" key="FileChooserDialogImpl/-1844.2.1844.1080/76.0.1844.1080@-1844.2.1844.1080" timestamp="1619643195448" />
+  </component>
+</project>
